@@ -1,0 +1,24 @@
+2014-04-08 13:51:17   INFO [lib.Web] : click on login link
+2014-04-08 13:51:20   INFO [lib.Web] : click to link of registration
+2014-04-08 13:53:27   INFO [lib.Web] : click on login link
+2014-04-08 13:53:29   INFO [lib.Web] : click to link of registration
+2014-04-08 13:54:47   INFO [lib.Web] : click on login link
+2014-04-08 13:54:50   INFO [lib.Web] : click to link of registration
+2014-04-08 14:06:11   INFO [lib.Web] : click on login link
+2014-04-08 14:06:47   INFO [lib.Web] : click on PC inset
+2014-04-08 14:06:49   INFO [lib.Web] : click on PC inset link
+2014-04-08 14:06:54   INFO [lib.Web] : click on SAPR inset link
+2014-04-08 14:24:02   INFO [lib.Web] : click on login link
+2014-04-08 14:24:04   INFO [lib.Web] : click to link of registration
+2014-04-08 14:25:04   INFO [lib.Web] : click on login link
+2014-04-08 14:25:07   INFO [lib.Web] : click to link of registration
+2014-04-08 14:25:07   INFO [lib.Web] : input Tortik6 into name field
+2014-04-08 14:25:07   INFO [lib.Web] : input mail6@mail.ru into email field
+2014-04-08 14:25:07   INFO [lib.Web] : input Tortik14 into pass field
+2014-04-08 14:25:20   INFO [lib.Web] : click on registration button
+2014-04-08 14:27:32   INFO [lib.Web] : click on login link
+2014-04-08 14:27:32   INFO [lib.Web] : input email into email field
+2014-04-08 14:27:33   INFO [lib.Web] : input pass into pass field
+2014-04-08 14:29:14   INFO [lib.Web] : click on login link
+2014-04-08 14:29:14   INFO [lib.Web] : input mail6@mail.ru into email field
+2014-04-08 14:29:14   INFO [lib.Web] : input Tortik14 into pass field
